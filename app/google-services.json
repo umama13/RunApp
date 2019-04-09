@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "369759980853",
+    "firebase_url": "https://runapp-dbed3.firebaseio.com",
+    "project_id": "runapp-dbed3",
+    "storage_bucket": "runapp-dbed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369759980853:android:62118fdafb939603",
+        "android_client_info": {
+          "package_name": "com.example.runapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369759980853-0ngm5k6hrjgo130rplm4m9ncnq95o6ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.runapp",
+            "certificate_hash": "051986c66317bf7301019dbf16a968875a9be4c7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlnfPEgQENpiCcQM_fJfZvDSk3iimVT6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369759980853-44s13npcc00aqe9vumffbjiqsqrqhafr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
